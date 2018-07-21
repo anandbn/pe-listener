@@ -1,0 +1,6 @@
+cred.txt
+node_modules
+.vscode
+.sfdx
+test.json
+.env
